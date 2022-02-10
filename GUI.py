@@ -1,7 +1,6 @@
 from tkinter import *
 import tkinter.messagebox
-from video_detection
-import start_recognition
+from video_detection import start_recognition
 
 
 def instruction_book():
