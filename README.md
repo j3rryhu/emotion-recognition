@@ -8,6 +8,8 @@ The algorithm is used to detect 7 kinds of human emotions. The algorithm uses co
 
 run pip install -r requirements.txt
 
+install fer2013 in the folder 
+
 ## 3. Requirements
 
 Python 3.6
@@ -18,7 +20,7 @@ Windows10 20H2
 
 ## 3. Training
 
-Run train.py and trained models will be stored in trained_models.
+First run save_image_from_fer.py to generate a folder called dataset. Run train.py and trained models will be stored in trained_models.
 
 ## 4. Implementation
 
